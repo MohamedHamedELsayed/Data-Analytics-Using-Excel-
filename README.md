@@ -1,11 +1,11 @@
-# INTERNSHIP (1) FROM " MERISKILL "
-## PROJECT " ONE ".
-## Name Project :- " Electronic Device Sales ".
+# INTERNSHIP (1) FROM " MERISKILL "📊📉
+## PROJECT " ONE ".✔
+## Name Project :- " Electronic Device Sales ".💻🖥
 
-# Project Overview 
+# Project Overview 📝
 This dashboard is designed to analyze the sales of electronic devices, and provides a comprehensive view of the overall performance of products in the market. The aim of the analysis is to identify the main patterns in sales, the most popular products, and the cities where the highest percentage of demand is achieved.
 
-## Total Product:
+## Total Product:🎁✔
 The number of products sold reached 186.0K, which shows the large volume of operations that took place.
 
 ## Total Quantity Ordered:
